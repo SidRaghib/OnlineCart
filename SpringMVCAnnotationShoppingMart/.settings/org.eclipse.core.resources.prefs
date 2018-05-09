@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/main/java/org/raghib/springmvcshoppingcart/controller/MainController.java=UTF-8
+encoding//src/main/java/org/raghib/springmvcshoppingcart/dao/impl/OrderDAOImpl.java=UTF-8
+encoding//src/main/java/org/raghib/springmvcshoppingcart/dao/impl/ProductDAOImpl.java=UTF-8
+encoding//src/main/java/org/raghib/springmvcshoppingcart/model/OrderDetailInfo.java=UTF-8
+encoding//src/main/java/org/raghib/springmvcshoppingcart/model/OrderInfo.java=UTF-8
+encoding//src/main/java/org/raghib/springmvcshoppingcart/model/ProductInfo.java=UTF-8
